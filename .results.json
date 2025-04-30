@@ -1,0 +1,12 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 4,
+    "passes": 4,
+    "pending": 0,
+    "failures": 0,
+    "start": "2025-04-30T10:19:19.262Z",
+    "end": "2025-04-30T10:19:21.384Z",
+    "duration": 2122
+  }
+}
